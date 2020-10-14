@@ -26,4 +26,6 @@ RBIG also allows us to calculate information theory measures like **Entropy**, *
 * Original Webpage - [isp.uv.es](http://isp.uv.es/rbig.html)
 * Original MATLAB Code - [webpage](https://github.com/ipl-uv/rbig_matlab)
 * Original Python Code - [spencerkent/pyRBIG](https://github.com/spencerkent/pyRBIG)
-* [Iterative Gaussianization: from ICA to Random Rotations](https://arxiv.org/abs/1602.00229) - Laparra et al (2011)
+* [Iterative Gaussianization: from ICA to Random Rotations](https://arxiv.org/abs/1602.00229) - Laparra et al (2011) [**arxiv**]
+* [Gaussianizing the Earth: Multidimensional Information Measures for Earth Data Analysis](https://arxiv.org/abs/2010.06476) - Johnson et. al. (2020) [**arxiv**]
+* [Information Theory Measures via Multidimensional Gaussianization](https://arxiv.org/abs/2010.03807) (Laparra et. al., 2020)
