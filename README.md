@@ -10,7 +10,7 @@ A method that provides a transformation scheme from any distribution to a gaussi
 
 </details>
 
-RBIG also allows us to calculate information theory measures like **Entropy**, **Total Correlation**, **Mutual Information** and the **KL-Divergence**. The details of how these information theoretic measures are calculated using RBIG can be found in [Information Theory Measures via Multidimensional Gaussianization](https://arxiv.org/abs/2010.03807) (Laparra et. al., 2020). The synthetic data used in the experiments from the paper can be downloaded from [here](https://isp.uv.es/RBIG4IT_files/RBIG4IT_experiments_syntehtic_data.zip). It's a zip file.
+RBIG also allows us to calculate information theory measures like **Entropy**, **Total Correlation**, **Mutual Information** and the **KL-Divergence**. The details of how these information theoretic measures are calculated using RBIG can be found in [Information Theory Measures via Multidimensional Gaussianization](https://arxiv.org/abs/2010.03807) (Laparra et. al., 2020). The synthetic data used in the experiments from the paper can be downloaded from [here](https://github.com/IPL-UV/rbig_matlab/blob/master/RBIG4IT_experiments_syntehtic_data.zip). It's a zip file.
 
 <details>
 <summary>Abstract from Paper</summary>
