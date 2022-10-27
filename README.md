@@ -23,3 +23,6 @@ RBIG also allows us to calculate information theory measures like **Entropy**, *
 * [Iterative Gaussianization: from ICA to Random Rotations](https://arxiv.org/abs/1602.00229) - Laparra et al (2011)
 * [Gaussianizing the Earth: Multidimensional Information Measures for Earth Data Analysis](https://arxiv.org/abs/2010.06476) - Johnson et. al. (2020) [**arxiv**]
 * [Information Theory Measures via Multidimensional Gaussianization](https://arxiv.org/abs/2010.03807) (Laparra et. al., 2020) [**arxiv**]
+
+## Acknowledgements
+This work was supported by the European Research Council (ERC) Synergy Grant “Understanding and Modelling the Earth System with Machine Learning (USMILE)” under Grant Agreement No 855187.
